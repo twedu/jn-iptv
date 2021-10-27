@@ -97,33 +97,33 @@ http://10.10.10.251:8888/rtp/239.253.242.52:8000
 http://10.10.10.251:8888/rtp/239.253.242.54:8000
 #EXTINF:-1 tvg-id="71" tvg-name="西藏卫视" tvg-logo="http://epg.51zmt.top:8000/tb1/ws/xizang.png" group-title="卫视",西藏卫视
 http://10.10.10.251:8888/rtp/239.253.242.56:8000
-#EXTINF:-1 tvg-id="1427" tvg-name="山东齐鲁" tvg-logo="http://epg.51zmt.top:8000/tb1/qt/sd_qilu.png" group-title="地方",山东齐鲁
+#EXTINF:-1 tvg-id="1427" tvg-name="山东齐鲁" tvg-logo="http://epg.51zmt.top:8000/tb1/qt/sd_qilu.png" group-title="山东",山东齐鲁
 http://10.10.10.251:8888/rtp/239.253.242.18:8000
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="未分类",山东文旅
+#EXTINF:-1 tvg-id="" tvg-name="山东文旅" tvg-logo="" group-title="山东",山东文旅
 http://10.10.10.251:8888/rtp/239.253.242.19:8000
-#EXTINF:-1 tvg-id="1434" tvg-name="山东生活" tvg-logo="http://epg.51zmt.top:8000/tb1/qt/sd_shenghuo.png" group-title="地方",山东生活
+#EXTINF:-1 tvg-id="1434" tvg-name="山东生活" tvg-logo="http://epg.51zmt.top:8000/tb1/qt/sd_shenghuo.png" group-title="山东",山东生活
 http://10.10.10.251:8888/rtp/239.253.242.20:8000
-#EXTINF:-1 tvg-id="1433" tvg-name="山东综艺" tvg-logo="http://epg.51zmt.top:8000/tb1/qt/sd_zongyi.png" group-title="地方",山东综艺
+#EXTINF:-1 tvg-id="1433" tvg-name="山东综艺" tvg-logo="http://epg.51zmt.top:8000/tb1/qt/sd_zongyi.png" group-title="山东",山东综艺
 http://10.10.10.251:8888/rtp/239.253.242.21:8000
-#EXTINF:-1 tvg-id="1428" tvg-name="山东体育" tvg-logo="http://epg.51zmt.top:8000/tb1/qt/sd_tiyu.png" group-title="地方",山东体育
+#EXTINF:-1 tvg-id="1428" tvg-name="山东体育" tvg-logo="http://epg.51zmt.top:8000/tb1/qt/sd_tiyu.png" group-title="山东",山东体育
 http://10.10.10.251:8888/rtp/239.253.242.22:8000
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="未分类",山东新闻
+#EXTINF:-1 tvg-id="" tvg-name="山东新闻" tvg-logo="" group-title="山东",山东新闻
 http://10.10.10.251:8888/rtp/239.253.242.23:8000
-#EXTINF:-1 tvg-id="1429" tvg-name="山东农科" tvg-logo="http://epg.51zmt.top:8000/tb1/qt/sd_nongke.png" group-title="地方",山东农科
+#EXTINF:-1 tvg-id="1429" tvg-name="山东农科" tvg-logo="http://epg.51zmt.top:8000/tb1/qt/sd_nongke.png" group-title="山东",山东农科
 http://10.10.10.251:8888/rtp/239.253.242.24:8000
-#EXTINF:-1 tvg-id="1431" tvg-name="山东少儿" tvg-logo="http://epg.51zmt.top:8000/tb1/qt/sd_shaoer.png" group-title="地方",山东少儿
+#EXTINF:-1 tvg-id="1431" tvg-name="山东少儿" tvg-logo="http://epg.51zmt.top:8000/tb1/qt/sd_shaoer.png" group-title="山东",山东少儿
 http://10.10.10.251:8888/rtp/239.253.242.25:8000
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="未分类",山东教育卫视
+#EXTINF:-1 tvg-id="" tvg-name="山东教育卫视" tvg-logo="" group-title="山东",山东教育卫视
 http://10.10.10.251:8888/rtp/239.253.242.59:8000
-#EXTINF:-1 tvg-id="69" tvg-name="金鹰卡通" tvg-logo="http://epg.51zmt.top:8000/tb1/qt/jinyingkatong.png" group-title="卫视",金鹰卡通
+#EXTINF:-1 tvg-id="69" tvg-name="金鹰卡通" tvg-logo="http://epg.51zmt.top:8000/tb1/qt/jinyingkatong.png" group-title="卡通",金鹰卡通
 http://10.10.10.251:8888/rtp/239.253.242.62:8000
-#EXTINF:-1 tvg-id="67" tvg-name="卡酷动画" tvg-logo="http://epg.51zmt.top:8000/tb1/qt/kaku.png" group-title="北京",卡酷动画
+#EXTINF:-1 tvg-id="67" tvg-name="卡酷动画" tvg-logo="http://epg.51zmt.top:8000/tb1/qt/kaku.png" group-title="卡通",卡酷动画
 http://10.10.10.251:8888/rtp/239.253.242.61:8000
-#EXTINF:-1 tvg-id="1046" tvg-name="优漫卡通" tvg-logo="http://epg.51zmt.top:8000/tb1/qt/youman.png" group-title="地方",优漫卡通
+#EXTINF:-1 tvg-id="1046" tvg-name="优漫卡通" tvg-logo="http://epg.51zmt.top:8000/tb1/qt/youman.png" group-title="卡通",优漫卡通
 http://10.10.10.251:8888/rtp/239.253.242.64:8000
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="未分类",炫动卡通
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="卡通",炫动卡通
 http://10.10.10.251:8888/rtp/239.253.242.63:8000
-#EXTINF:-1 tvg-id="6010" tvg-name="嘉佳卡通" tvg-logo="http://epg.51zmt.top:8000/tb1/qt/jiajiakt.png" group-title="地方",嘉佳卡通
+#EXTINF:-1 tvg-id="6010" tvg-name="嘉佳卡通" tvg-logo="http://epg.51zmt.top:8000/tb1/qt/jiajiakt.png" group-title="卡通",嘉佳卡通
 http://10.10.10.251:8888/rtp/239.253.242.65:8000
 #EXTINF:-1 tvg-id="61" tvg-name="兵团卫视" tvg-logo="http://epg.51zmt.top:8000/tb1/ws/bingtuan.png" group-title="卫视",兵团卫视
 http://10.10.10.251:8888/rtp/239.253.242.57:8000
@@ -289,41 +289,41 @@ http://10.10.10.251:8888/rtp/239.253.242.131:8000
 http://10.10.10.251:8888/rtp/239.253.242.128:8000
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="未分类",IPTV8
 http://10.10.10.251:8888/rtp/239.253.242.132:8000
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="未分类",济南新闻
+#EXTINF:-1 tvg-id="" tvg-name="济南新闻" tvg-logo="" group-title="济南",济南新闻
 http://10.10.10.251:8888/rtp/239.253.242.254:8000
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="未分类",济南都市
+#EXTINF:-1 tvg-id="" tvg-name="济南都市" tvg-logo="" group-title="济南",济南都市
 http://10.10.10.251:8888/rtp/239.253.242.248:8000
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="未分类",济南生活
+#EXTINF:-1 tvg-id="" tvg-name="济南生活" tvg-logo="" group-title="济南",济南生活
 http://10.10.10.251:8888/rtp/239.253.242.251:8000
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="未分类",济南影视
+#EXTINF:-1 tvg-id="" tvg-name="济南影视" tvg-logo="" group-title="济南",济南影视
 http://10.10.10.251:8888/rtp/239.253.242.249:8000
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="未分类",济南娱乐
+#EXTINF:-1 tvg-id="" tvg-name="济南娱乐" tvg-logo="" group-title="济南",济南娱乐
 http://10.10.10.251:8888/rtp/239.253.242.250:8000
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="未分类",济南商务
+#EXTINF:-1 tvg-id="" tvg-name="济南商务" tvg-logo="" group-title="济南",济南商务
 http://10.10.10.251:8888/rtp/239.253.242.253:8000
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="未分类",济南少儿
+#EXTINF:-1 tvg-id="" tvg-name="济南少儿" tvg-logo="" group-title="济南",济南少儿
 http://10.10.10.251:8888/rtp/239.253.242.252:8000
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="未分类",济南教育
+#EXTINF:-1 tvg-id="" tvg-name="济南教育" tvg-logo="" group-title="济南",济南教育
 http://10.10.10.251:8888/rtp/239.253.242.246:8000
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="未分类",鲁中频道
+#EXTINF:-1 tvg-id="" tvg-name="鲁中频道" tvg-logo="" group-title="济南",鲁中频道
 http://10.10.10.251:8888/rtp/239.253.242.244:8000
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="未分类",科教频道
+#EXTINF:-1 tvg-id="" tvg-name="济南科教" tvg-logo="" group-title="济南",济南科教
 http://10.10.10.251:8888/rtp/239.253.242.243:8000
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="未分类",海看热播
+#EXTINF:-1 tvg-id="" tvg-name="海看热播" tvg-logo="" group-title="海看",海看热播
 http://10.10.10.251:8888/rtp/239.253.242.94:8000
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="未分类",海看电竞世界
+#EXTINF:-1 tvg-id="" tvg-name="海看电竞世界" tvg-logo="" group-title="海看",海看电竞世界
 http://10.10.10.251:8888/rtp/239.253.242.115:8000
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="未分类",海看4K测试
+#EXTINF:-1 tvg-id="" tvg-name="海看4K" tvg-logo="" group-title="海看",海看4K
 http://10.10.10.251:8888/rtp/239.253.242.101:8000
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="未分类",海看教育
+#EXTINF:-1 tvg-id="" tvg-name="海看教育" tvg-logo="" group-title="海看",海看教育
 http://10.10.10.251:8888/rtp/239.253.242.95:8000
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="未分类",海看健康
+#EXTINF:-1 tvg-id="" tvg-name="海看健康" tvg-logo="" group-title="海看",海看健康
 http://10.10.10.251:8888/rtp/239.253.242.100:8000
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="未分类",海看爱宠
+#EXTINF:-1 tvg-id="" tvg-name="海看爱宠" tvg-logo="" group-title="海看",海看爱宠
 http://10.10.10.251:8888/rtp/239.253.242.96:8000
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="未分类",海看少儿
+#EXTINF:-1 tvg-id="" tvg-name="海看少儿" tvg-logo="" group-title="海看",海看少儿
 http://10.10.10.251:8888/rtp/239.253.242.99:8000
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="未分类",海看剧场
+#EXTINF:-1 tvg-id="" tvg-name="海看剧场" tvg-logo="" group-title="海看",海看剧场
 http://10.10.10.251:8888/rtp/239.253.242.98:8000
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="未分类",海看大片
+#EXTINF:-1 tvg-id="" tvg-name="海看大片" tvg-logo="" group-title="海看",海看大片
 http://10.10.10.251:8888/rtp/239.253.242.97:8000
