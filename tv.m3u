@@ -138,11 +138,11 @@ http://10.10.10.251:8888/rtp/239.253.242.106:8000
 http://10.10.10.251:8888/rtp/239.253.242.171:8000
 #EXTINF:-1 tvg-id="2025" tvg-name="金鹰纪实" tvg-logo="http://epg.51zmt.top:8000/tb1/ws/jinyingjishi.png" group-title="特色",金鹰纪实
 http://10.10.10.251:8888/rtp/239.253.242.103:8000
-#EXTINF:-1 tvg-id="73" tvg-name="中国教育1台" tvg-logo="http://epg.51zmt.top:8000/tb1/qt/中国教育1台.png" group-title="特色",中国教育1
+#EXTINF:-1 tvg-id="73" tvg-name="中国教育1台" tvg-logo="http://epg.51zmt.top:8000/tb1/qt/%E4%B8%AD%E5%9B%BD%E6%95%99%E8%82%B21%E5%8F%B0.png" group-title="特色",中国教育1
 http://10.10.10.251:8888/rtp/239.253.242.110:8000
-#EXTINF:-1 tvg-id="74" tvg-name="中国教育2台" tvg-logo="http://epg.51zmt.top:8000/tb1/qt/中国教育2台.png" group-title="特色",中国教育2
+#EXTINF:-1 tvg-id="74" tvg-name="中国教育2台" tvg-logo="http://epg.51zmt.top:8000/tb1/qt/%E4%B8%AD%E5%9B%BD%E6%95%99%E8%82%B22%E5%8F%B0.png" group-title="特色",中国教育2
 http://10.10.10.251:8888/rtp/239.253.242.107:8000
-#EXTINF:-1 tvg-id="7245" tvg-name="中国教育4台" tvg-logo="http://epg.51zmt.top:8000/tb1/qt/中国教育4台.png" group-title="特色",中国教育4
+#EXTINF:-1 tvg-id="7245" tvg-name="中国教育4台" tvg-logo="http://epg.51zmt.top:8000/tb1/qt/%E4%B8%AD%E5%9B%BD%E6%95%99%E8%82%B24%E5%8F%B0.png" group-title="特色",中国教育4
 http://10.10.10.251:8888/rtp/239.253.242.108:8000
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="特色",爱体育
 http://10.10.10.251:8888/rtp/239.253.242.109:8000
