@@ -130,7 +130,7 @@ http://10.10.10.251:8888/rtp/239.253.242.63:8000
 http://10.10.10.251:8888/rtp/239.253.242.65:8000
 #EXTINF:-1 tvg-id="61" tvg-name="兵团卫视" tvg-logo="http://epg.51zmt.top:8000/tb1/ws/bingtuan.png" group-title="特色",兵团卫视
 http://10.10.10.251:8888/rtp/239.253.242.57:8000
-#EXTINF:-1 tvg-id="" tvg-name="农林卫视" tvg-logo="https://upload.112114.xyz/logo/%E5%86%9C%E6%9E%97%E5%8D%AB%E8%A7%86.png" group-title="特色",农林卫视
+#EXTINF:-1 tvg-id="" tvg-name="农林卫视" tvg-logo="" group-title="特色",农林卫视
 http://10.10.10.251:8888/rtp/239.253.242.70:8000
 #EXTINF:-1 tvg-id="68" tvg-name="厦门卫视" tvg-logo="http://epg.51zmt.top:8000/tb1/ws/xiamen.png" group-title="特色",厦门卫视
 http://10.10.10.251:8888/rtp/239.253.242.106:8000
@@ -248,13 +248,13 @@ http://10.10.10.251:8888/rtp/239.253.242.125:8000
 http://10.10.10.251:8888/rtp/239.253.242.126:8000
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://epg.51zmt.top:8000/tb1/qt/IPTV%E5%B0%91%E5%84%BF%E5%8A%A8%E7%94%BB.png" group-title="特色",少儿动画
 http://10.10.10.251:8888/rtp/239.253.242.127:8000
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://www.nettvpro.live/uploads/allimg/18/1-1P511215A10-L.jpg" group-title="特色",相声小品
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="特色",相声小品
 http://10.10.10.251:8888/rtp/239.253.242.136:8000
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://epg.51zmt.top:8000/tb1/qt/IPTV%E9%AD%85%E5%8A%9B%E6%97%B6%E5%B0%9A.png" group-title="特色",魅力时尚
 http://10.10.10.251:8888/rtp/239.253.242.130:8000
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://www.nettvpro.live/uploads/allimg/18/1-1P511215R30-L.jpg" group-title="特色",IPTV野外
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="特色",IPTV野外
 http://10.10.10.251:8888/rtp/239.253.242.137:8000
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://www.nettvpro.live/uploads/allimg/18/1-1P5112159470-L.jpg" group-title="特色",IPTV法治
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="特色",IPTV法治
 http://10.10.10.251:8888/rtp/239.253.242.138:8000
 #EXTINF:-1 tvg-id="" tvg-name="爱综艺" tvg-logo="https://epg.112114.xyz/logo/IPTV3+.png" group-title="特色",IPTV3
 http://10.10.10.251:8888/rtp/239.253.242.129:8000
@@ -262,27 +262,27 @@ http://10.10.10.251:8888/rtp/239.253.242.129:8000
 http://10.10.10.251:8888/rtp/239.253.242.131:8000
 #EXTINF:-1 tvg-id="" tvg-name="爱电影" tvg-logo="https://epg.112114.xyz/logo/IPTV6+.png" group-title="特色",IPTV6
 http://10.10.10.251:8888/rtp/239.253.242.128:8000
-#EXTINF:-1 tvg-id="" tvg-name="爱大剧" tvg-logo="https://www.nettvpro.live/uploads/18/1-1P511220344S5.jpg" group-title="特色",IPTV8
+#EXTINF:-1 tvg-id="" tvg-name="爱大剧" tvg-logo="" group-title="特色",IPTV8
 http://10.10.10.251:8888/rtp/239.253.242.132:8000
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://www.nettvpro.live/uploads/allimg/18/1_021Q24132O16.jpg" group-title="济南",济南新闻
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="济南",济南新闻
 http://10.10.10.251:8888/rtp/239.253.242.254:8000
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://www.nettvpro.live/uploads/allimg/18/1_021Q246302625.jpg" group-title="济南",济南都市
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="济南",济南都市
 http://10.10.10.251:8888/rtp/239.253.242.248:8000
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://www.nettvpro.live/uploads/allimg/18/1_021Q2520120U.jpg" group-title="济南",济南生活
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="济南",济南生活
 http://10.10.10.251:8888/rtp/239.253.242.251:8000
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://www.nettvpro.live/uploads/allimg/18/1_021Q24P45130.jpg" group-title="济南",济南影视
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="济南",济南影视
 http://10.10.10.251:8888/rtp/239.253.242.249:8000
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://www.nettvpro.live/uploads/allimg/18/1_021Q249462941.jpg" group-title="济南",济南娱乐
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="济南",济南娱乐
 http://10.10.10.251:8888/rtp/239.253.242.250:8000
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://www.nettvpro.live/uploads/allimg/18/1_021Q2541b5C.jpg" group-title="济南",济南商务
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="济南",济南商务
 http://10.10.10.251:8888/rtp/239.253.242.253:8000
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://www.nettvpro.live/uploads/allimg/18/1_021Q256124291.jpg" group-title="济南",济南少儿
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="济南",济南少儿
 http://10.10.10.251:8888/rtp/239.253.242.252:8000
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://www.nettvpro.live/uploads/allimg/20/1-20030G952330-L.jpg" group-title="济南",济南教育
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="济南",济南教育
 http://10.10.10.251:8888/rtp/239.253.242.246:8000
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://www.nettvpro.live/uploads/allimg/19/1-1911062142350-L.jpg" group-title="济南",济南鲁中
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="济南",济南鲁中
 http://10.10.10.251:8888/rtp/239.253.242.244:8000
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://www.nettvpro.live/uploads/allimg/19/1-1Z11G10T80-L.jpg" group-title="济南",济南科教
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="济南",济南科教
 http://10.10.10.251:8888/rtp/239.253.242.243:8000
 #EXTINF:-1 tvg-id="" tvg-name="海看热播" tvg-logo="https://epg.112114.xyz/logo/%E6%B5%B7%E7%9C%8B%E7%83%AD%E6%92%AD.png" group-title="海看",海看热播
 http://10.10.10.251:8888/rtp/239.253.242.94:8000
