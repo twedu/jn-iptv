@@ -92,8 +92,6 @@ http://10.10.10.251:8888/rtp/239.253.242.58:8000
 http://10.10.10.251:8888/rtp/239.253.242.53:8000
 #EXTINF:-1 tvg-id="57" tvg-name="新疆卫视" tvg-logo="http://epg.51zmt.top:8000/tb1/ws/xinjiang.png" group-title="卫视",新疆卫视
 http://10.10.10.251:8888/rtp/239.253.242.60:8000
-# #EXTINF:-1 tvg-id="42" tvg-name="甘肃卫视" tvg-logo="http://epg.51zmt.top:8000/tb1/ws/gansu.png" group-title="卫视",甘肃卫视
-# http://10.10.10.251:8888/rtp/239.253.242.52:8000
 #EXTINF:-1 tvg-id="42" tvg-name="甘肃卫视" tvg-logo="http://epg.51zmt.top:8000/tb1/ws/gansu.png" group-title="卫视",甘肃卫视
 http://10.10.10.251:8888/rtp/239.253.242.74:8000
 #EXTINF:-1 tvg-id="59" tvg-name="青海卫视" tvg-logo="http://epg.51zmt.top:8000/tb1/ws/qinghai.png" group-title="卫视",青海卫视
@@ -274,16 +272,12 @@ http://10.10.10.251:8888/rtp/239.253.242.251:8000
 http://10.10.10.251:8888/rtp/239.253.242.249:8000
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="济南",济南娱乐
 http://10.10.10.251:8888/rtp/239.253.242.250:8000
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="济南",济南商务
-http://10.10.10.251:8888/rtp/239.253.242.253:8000
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="济南",济南少儿
 http://10.10.10.251:8888/rtp/239.253.242.252:8000
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="济南",济南教育
 http://10.10.10.251:8888/rtp/239.253.242.246:8000
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="济南",济南鲁中
 http://10.10.10.251:8888/rtp/239.253.242.244:8000
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="济南",济南科教
-http://10.10.10.251:8888/rtp/239.253.242.243:8000
 #EXTINF:-1 tvg-id="" tvg-name="海看热播" tvg-logo="https://epg.112114.xyz/logo/%E6%B5%B7%E7%9C%8B%E7%83%AD%E6%92%AD.png" group-title="海看",海看热播
 http://10.10.10.251:8888/rtp/239.253.242.94:8000
 #EXTINF:-1 tvg-id="" tvg-name="海看电竞" tvg-logo="https://epg.112114.xyz/logo/%E6%B5%B7%E7%9C%8B%E7%94%B5%E7%AB%9E.png" group-title="海看",海看电竞
